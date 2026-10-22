@@ -1,24 +1,29 @@
 # 👋 Hi, I'm Sultan
 
-### 💻 Web Developer | Front-End Developer
+### 💻 Web Developer • Front-End Developer • Freelance Developer
 
-I build modern, responsive and user-friendly websites with a focus on clean design, performance and great user experience.
+I design and develop **modern, responsive and high-performance websites** that help businesses build a strong online presence.
 
----
-
-## 🚀 About Me
-
-- 👨‍💻 Web Developer
-- 🌐 Experienced in building responsive websites
-- 🛒 E-commerce & business websites
-- 📱 Mobile-friendly web development
-- 🎨 Clean and modern UI
-- ⚡ Fast and practical web solutions
-- 🤝 Available for freelance projects
+I focus on clean UI, responsive layouts, practical functionality and smooth user experiences — from business websites and landing pages to e-commerce stores and custom web projects.
 
 ---
 
-## 🛠️ Skills
+## 🚀 What I Do
+
+- 🌐 Modern Website Development
+- 🛒 E-commerce Website Development
+- 💼 Business & Portfolio Websites
+- 🎨 Responsive UI Development
+- 📱 Mobile-First Web Design
+- ⚡ Performance-Focused Websites
+- 🔧 Website Customization & Improvements
+- 🤝 Freelance Development & Client Projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Front-End
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -26,65 +31,118 @@ I build modern, responsive and user-friendly websites with a focus on clean desi
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+### Development Focus
+
+<p>
+  <img src="https://img.shields.io/badge/Responsive%20Design-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Performance-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mobile%20First-111827?style=for-the-badge" />
+</p>
+
 ---
 
-## 🌐 Featured Projects
+# 🌟 Featured Projects
 
-### 🛍️ Grace By Naseem
+## 🛍️ Grace By Naseem
 
-A modern fashion e-commerce website designed to showcase and sell clothing collections online.
+A modern fashion e-commerce website created to provide customers with a smooth and professional online shopping experience.
 
-**Highlights:**
-- 🛒 E-commerce shopping experience
+**Highlights**
+
+- 🛒 E-commerce experience
 - 👗 Product collections
-- 📱 Responsive design
-- 🔐 Customer account system
 - ❤️ Wishlist functionality
+- 👤 Customer account experience
+- 📱 Responsive design
 - 📦 Shipping & return information
+- 🎨 Modern storefront UI
 
-🔗 **[Live Website](https://gracebynaseem.com/)**
+### 🔗 Live Demo
 
----
-
-### 🛒 Raz-e-Jaree
-
-An online store project built with a focus on a clean shopping experience and modern website presentation.
-
-🔗 **[Live Website](https://raz-e-jaree.store/)**
+**[🌐 Visit Website →](https://gracebynaseem.com/)**
 
 ---
 
-### 🎬 Movie Discovery Website
+## 🛒 Raz-e-Jaree
 
-A movie discovery website built with **HTML, CSS and JavaScript**.
+An online store project focused on a clean storefront experience, product presentation and responsive design.
 
-**Features:**
+### 🔗 Live Demo
+
+**[🌐 Visit Website →](https://raz-e-jaree.store/)**
+
+---
+
+## 🎬 Movie Discovery Website
+
+A lightweight movie discovery project built with **HTML, CSS and JavaScript**.
+
+**Features**
+
 - 🎥 Movie discovery
 - 🔎 Search functionality
-- 📱 Responsive design
-- ⚡ Fast and lightweight
-- 🎨 Modern interface
+- 📱 Responsive interface
+- ⚡ Lightweight frontend
+- 🎨 Modern UI
 
-🔗 **[View Project](https://github.com/)**
+### 🔗 Project
 
----
-
-## 📂 More Projects
-
-I'm continuously building and improving new websites and web projects.
-
-👉 **[Explore My GitHub Repositories](https://github.com/)**
+**[💻 View Repository →](https://github.com/)**
 
 ---
 
-## 🤝 Let's Work Together
+# 💼 Services
 
-Looking for a developer to build a **business website, e-commerce store, landing page, portfolio or custom web project?**
+### 🌐 Website Development
+Professional websites for businesses, brands and individuals.
 
-I'm available for freelance projects and collaborations.
+### 🛒 E-commerce Development
+Modern online stores designed for a smooth shopping experience.
 
-### 📩 Sultan — Web Developer
+### 🎨 Front-End Development
+Clean, responsive and user-friendly interfaces.
 
-⭐ Feel free to explore my projects and repositories.
+### 📱 Responsive Design
+Websites that look great on mobile, tablet and desktop.
 
-Thanks for visiting my profile! 🚀
+### 🔧 Website Improvements
+Fixing, customizing and improving existing websites.
+
+### 🚀 Landing Pages
+High-quality landing pages designed for businesses, products and services.
+
+---
+
+# 📊 GitHub
+
+I use GitHub to build, maintain and showcase my development projects.
+
+🔗 **[Explore My Repositories →](https://github.com/)**
+
+---
+
+# 🤝 Let's Work Together
+
+Have a project idea or need a professional website?
+
+I'm available for **freelance projects, website development and collaborations.**
+
+### 📩 Contact Me
+
+**Sultan**  
+💻 Web Developer
+
+🌐 **Portfolio:** Add your portfolio link here
+
+💼 **LinkedIn:** Add your LinkedIn link here
+
+📱 **WhatsApp:** Message sultan Ali on WhatsApp. https://wa.me/923051260003
+
+---
+
+## ⭐ Thanks for Visiting
+
+If you find my work useful or interesting, consider ⭐ **starring my repositories**.
+
+**Let's build something great together. 🚀**
